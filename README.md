@@ -1,1 +1,1 @@
-# -developer-task-01-solution
+# developer-task-01-solution
